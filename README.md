@@ -2,8 +2,6 @@
 
 This project presents a comprehensive sales and profit analysis of a Superstore over a 2-year period. Using **Power BI** and **DAX**, I created an interactive dashboard that visualizes key performance metrics to drive business insights.
 
-![Dashboard Screenshot](./assets/dashboard.png) 
-
 ---
 
 ## 📁 Dataset
