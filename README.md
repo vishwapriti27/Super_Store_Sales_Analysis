@@ -53,6 +53,7 @@ Total Profit = SUM(Superstore[Profit])
 Order Count = COUNT(Superstore[Order ID])
 Avg Shipping Days = AVERAGE(DATEDIFF(Superstore[Order Date], Superstore[Ship Date], DAY))
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
+```
 
 --- 
 
