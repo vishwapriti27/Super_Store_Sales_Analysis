@@ -32,6 +32,28 @@ This project presents a comprehensive sales and profit analysis of a Superstore 
 
 ---
 
+## 📊 Action 
+
+- Loaded and cleaned the dataset in Power BI.
+
+- Used DAX to create KPIs, time-based trends, and custom calculations.
+
+- Built an interactive Power BI dashboard with visuals including:
+
+- Line charts (Monthly Profit & Sales)
+
+- Donut charts (Sales by Segment, Region, and Payment Mode)
+
+- Bar charts (Sub-category, Ship Mode, Category-wise Sales)
+
+- Map (Sales & Profit by State)
+
+- KPI Cards for Sales, Profit, Orders, and Average Shipping Days
+
+- Added slicers for Region selection and dynamic filtering.
+
+---
+
 ## 📌 Dashboard Features
 
 | 📈 Visual | Description |
@@ -53,3 +75,17 @@ Total Profit = SUM(Superstore[Profit])
 Order Count = COUNT(Superstore[Order ID])
 Avg Shipping Days = AVERAGE(DATEDIFF(Superstore[Order Date], Superstore[Ship Date], DAY))
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
+
+---
+
+## 📝 Insights Gained
+
+- Online and COD were the most popular payment modes.
+
+- West region and Consumer segment drove the highest sales.
+
+- Phones, Chairs, and Binders were top-selling sub-categories.
+
+- Sales peaked in Q4 for both years.
+
+- Standard Class was the most used ship mode.
