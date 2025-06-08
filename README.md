@@ -66,3 +66,9 @@ Profit Margin = DIVIDE([Total Profit], [Total Sales])
 - Sales peaked in Q4 for both years.
 
 - Standard Class was the most used ship mode.
+
+---
+
+## 📣 Conclusion
+
+This project helped in visualizing and understanding business performance over time and across different categories and geographies, enabling data-driven decisions for improving profitability.
